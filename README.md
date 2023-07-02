@@ -1,4 +1,4 @@
-<h1>DevOps project using Docker, Yaml, and K8s</h1>
+<h1>DevOps project using Docker and K8s</h1>
   
 in this project:
 
